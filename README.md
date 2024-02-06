@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mustafa Kemal Dirken</h1>
-<h3 align="center">mkdirken@gmail.com</h3>
+<!-- <h3 align="center">mkdirken@gmail.com</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkdirken&label=Profile%20views&color=0e75b6&style=flat" alt="mkdirken" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkdirken" alt="mkdirken" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkdirken" alt="mkdirken" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/mkdirken" target="blank"><img src="https://img.shields.io/twitter/follow/mkdirken?logo=twitter&style=for-the-badge" alt="mkdirken" /></a> </p>
 
-- 💬 Ask me about **golang,php,sql,mssql,python,javascript,web3,linux vs**
+- 💬 Ask me about **golang,php,sql,mssql,python,javascript,web3,blockchain,linux vs**
 
 - 📫 How to reach me **mkdirken@gmail.com**
 
